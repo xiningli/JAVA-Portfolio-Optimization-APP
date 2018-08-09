@@ -1,3 +1,4 @@
+
 # PSTAT 234 Final Project - Portfolio Optimization
 
 *Group: Xining Li, Ben Ku, Mi Yu, Zhipu Zhou*
@@ -132,3 +133,4 @@ W_t =
 &W_{t-1}(1+r_t^Tw_{k_t}), & t\neq T_{k_t-1}+1
 \end{cases}
 \end{equation}
+
